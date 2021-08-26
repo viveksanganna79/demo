@@ -7,3 +7,4 @@ just a new update, on a new branch
 
 Updating on develop branch
 This is bound to show up error
+Adding a new line
